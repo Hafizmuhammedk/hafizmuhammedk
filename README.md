@@ -14,19 +14,10 @@
 - **Databases:** PostgreSQL, SQLite, MySQL  
 - **Tools:** Git, Docker, VS Code, Linux/WSL, Postman
 
----
+### 🌐 Connect with Me  
+📧 [Email](hafizmuhammed1019@gmail.com)  
+📸 [Instagram](https://www.instagram.com/hafiz_muhammed.k)
 
-### 📈 GitHub Stats
-![Hafis's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-### 🌐 Connect with Me
-💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)  
-📧 [Email](mailto:YOUR_EMAIL)  
-🐦 [Twitter](https://twitter.com/YOUR_TWITTER)
 
 ---
 
