@@ -9,10 +9,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, SQL, HTML, CSS  
-- **Frameworks:** FastAPI, Flask, React, Tailwind CSS  
+- **Languages:** Python, SQL, HTML, CSS  
+- **Frameworks:** FastAPI, Flask, Tailwind CSS
 - **Databases:** PostgreSQL, SQLite, MySQL  
-- **Tools:** Git, Docker, VS Code, Linux/WSL, Postman
+- **Tools:** Git,VS Code, Linux/WSL
 
 ### 🌐 Connect with Me  
 📧 [Email](hafizmuhammed1019@gmail.com)  
