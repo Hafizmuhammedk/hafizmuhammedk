@@ -12,14 +12,6 @@
 ---
 
 ## 🎯 About Me
-
-class Developer:
-def init(self):
-self.name = "Hafis Muhammed"
-self.role = "Full Stack Developer"
-self.language_spoken = ["Python", "JavaScript", "SQL"]
-self.current_focus = ["FastAPI", "React", "PostgreSQL", "AI/ML"]
-
 text
 def say_hi(self):
     print("Thanks for dropping by! Let's build something amazing together.")
