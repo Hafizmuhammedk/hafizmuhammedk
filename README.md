@@ -1,25 +1,69 @@
-# 👋 Hi, I'm Hafis Muhammed!
-
-### 🚀 About Me
-💡 I’m passionate about exploring the intersection of **technology and everyday life**.  
-💻 I love working on **Python**, **web development**, and **AI/ML** projects.  
-🎯 Currently learning **FastAPI**, **PostgreSQL**, and **modern frontend frameworks**.  
-🧠 Always curious about how tech can make daily experiences smarter and simpler.
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Hafis+Muhammed!;Tech+Enthusiast+%7C+Python+Developer+%7C+AI+Explorer;Exploring+the+intersection+of+Tech+and+Everyday+Life" alt="Typing SVG" />
+</h1>
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, SQL, HTML, CSS  
-- **Frameworks:** FastAPI, Flask, Tailwind CSS
-- **Databases:** PostgreSQL, SQLite, MySQL  
-- **Tools:** Git,VS Code, Linux/WSL
+### 🚀 About Me  
+💡 Passionate about exploring how **technology enhances everyday life**.  
+💻 Focused on building with **Python**, **web technologies**, and **AI/ML**.  
+🎯 Currently diving into **FastAPI**, **PostgreSQL**, and **modern frontend frameworks**.  
+🧠 Always learning, always curious, always building something new!
+
+---
+
+### 🛠️ Tech Stack  
+
+#### 🧩 Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚙️ Frameworks & Tools  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 ### 🌐 Connect with Me  
-📧 [Email](hafizmuhammed1019@gmail.com)  
-📸 [Instagram](https://www.instagram.com/hafiz_muhammed.k)
 
+<p align="center">
+  <a href="mailto:hafizmuhammed1019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hafiz_muhammed.k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
-⭐️ *"Technology is best when it brings people together."*  
+### 📊 GitHub Stats & Activity  
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hafizmuhammedk&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hafizmuhammedk&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizmuhammedk&theme=react-dark&bg_color=20232a&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation  
+
+<p align="center">
+  <img src="https://github.com/Hafizmuhammedk/Hafizmuhammedk/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+⭐️ *“Technology is best when it brings people together.”*  
