@@ -51,9 +51,9 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hafizmuhammedk&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizmuhammedk&theme=react-dark&bg_color=20232a&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
