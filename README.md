@@ -59,10 +59,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafizmuhammedk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizmuhammedk&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-</div> 
-
 ---
 
 ## 🌐 Let's Connect!
