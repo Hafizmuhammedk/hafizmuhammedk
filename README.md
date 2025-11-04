@@ -63,9 +63,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafizmuhammedk&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizmuhammedk&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-</div>
+</div> -->
 
 ---
 
