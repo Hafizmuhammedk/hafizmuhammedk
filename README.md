@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My Digital Space
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Hafis+Muhammed!;🚀+Full+Stack+Developer+%7C+Python+Enthusiast;🎯+FastAPI+%2B+React+%2B+PostgreSQL;🌐+Building+Tech+That+Matters;💡+AI+%7C+ML+%7C+Web+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Hafis+Muhammed!;🚀+%7C+Python+Enthusiast;🎯+FastAPI+%2B+PostgreSQL;🌐+Building+Tech+That+Matters;💡+AI+%7C+dData Science+%7C+Technologies" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -14,8 +14,7 @@
 ## 🎯 About Me
 
 💡 Passionate about exploring how **technology enhances everyday life**  
-💻 Building scalable applications with **Python**, **React**, and **FastAPI**  
-🎯 Currently mastering **modern web frameworks** and **database optimization**  
+💻 Building scalable applications with **Python**, **Flask**, and **FastAPI**    
 🧠 Always learning, always curious, always building something new!
 
 ---
@@ -26,16 +25,13 @@
 
 ### Languages & Core Technologies
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
