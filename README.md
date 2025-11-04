@@ -12,13 +12,6 @@
 ---
 
 ## 🎯 About Me
-text
-def say_hi(self):
-    print("Thanks for dropping by! Let's build something amazing together.")
-me = Developer()
-me.say_hi()
-
-text
 
 💡 Passionate about exploring how **technology enhances everyday life**  
 💻 Building scalable applications with **Python**, **React**, and **FastAPI**  
@@ -73,26 +66,6 @@ text
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizmuhammedk&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hafizmuhammedk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
----
-
-## 💻 Current Focus
-
-const currentProjects = {
-learning: ["Advanced FastAPI", "React Performance", "PostgreSQL Optimization"],
-building: ["F1 Race Tracker", "Modern Web Apps", "API Development"],
-exploring: ["AI/ML Integration", "Cloud Deployment", "Microservices"]
-};
-
-text
 
 ---
 
