@@ -1,3 +1,7 @@
+WELCOME
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=36BCF7&center=true&width=800&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Hafis+Muhammed!;%F0%9F%9A%80+Tech+Enthusiast+%7C+Python+Developer+%7C+AI+Explorer;%F0%9F%8C%8D+Exploring+the+Intersection+of+Tech+and+Everyday+Life" alt="Typing SVG" />
 </p>
