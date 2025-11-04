@@ -1,7 +1,6 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Hafis+Muhammed!;Tech+Enthusiast+%7C+Python+Developer+%7C+AI+Explorer;Exploring+the+intersection+of+Tech+and+Everyday+Life" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=36BCF7&center=true&width=800&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Hafis+Muhammed!;%F0%9F%9A%80+Tech+Enthusiast+%7C+Python+Developer+%7C+AI+Explorer;%F0%9F%8C%8D+Exploring+the+Intersection+of+Tech+and+Everyday+Life" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -45,7 +44,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hafizmuhammedk&show_icons=true&theme=tokyonight" />
@@ -58,10 +57,10 @@
 
 ---
 
-### 🐍 Contribution Snake Animation  
+### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/Hafizmuhammedk/Hafizmuhammedk/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Hafizmuhammedk/Hafizmuhammedk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
