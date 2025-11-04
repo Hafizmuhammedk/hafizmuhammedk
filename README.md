@@ -9,11 +9,6 @@
 </div>
 
 ---
-
-## 🎯 About Me
-
-
-
 ## 🎯 About Me
 
 💡 Passionate about exploring how **technology enhances everyday life**  
