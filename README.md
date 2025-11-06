@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My Digital Space
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Hafis+Muhammed!;🚀+Full+Stack+Developer+%7C+Python+Enthusiast;🎯+FastAPI+%2B+PostgreSQL+%2B+AI+Data+Science;🌐+Building+Tech+That+Matters;💡+Data+Science+%7C+Web+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Hafis+Muhammed!;🚀+%7C+Python+Enthusiast;🎯+FastAPI+%2B+PostgreSQL+%2B+AI+Data+Science;🌐+Building+Tech+That+Matters;💡+Data+Science+%7C+Web+Technologies" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
