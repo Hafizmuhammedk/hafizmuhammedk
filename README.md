@@ -1,22 +1,25 @@
 # Hi, I'm Hafis Muhammed 👋
 
-Backend developer from Kerala, India, focused on building reliable Python applications, clean REST APIs, and database-driven systems. I am also exploring machine learning and deep learning to create useful, intelligent products.
+Generative AI Engineer based in Kerala, India, passionate about designing and developing intelligent, scalable, and production-ready AI solutions. My technical expertise spans Large Language Models (LLMs), Generative AI, AI Agents, Retrieval-Augmented Generation (RAG), machine learning, and backend development.
 
 ## What I work with
 
-- **Languages:** Python, SQL, HTML, CSS
+- **Languages:** Python, JavaScript, R, SQL
+- **AI / ML:** PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO
+- **Generative AI:** LLMs, RAG, AI Agents, Agno, LiveKit, Pinecone
 - **Backend:** FastAPI, Flask, REST APIs
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Tools:** Git, Docker, Linux, VS Code
+- **Databases:** PostgreSQL, Redis, Valkey
+- **Cloud & DevOps:** AWS, GCP, Docker, GitHub Actions (CI/CD)
+- **Tools & MLOps:** Git, Linux, MLflow, DeepEval, Ragas
 
-## Currently learning
+## Currently Working On
 
-- Machine learning and deep learning with PyTorch
-- Computer vision and OpenCV
-- System design, data structures, and scalable backend architecture
+- Building **multi-agent voice orchestration systems** with intelligent agent routing and seamless handoffs.
+- Developing **real-time, full-duplex voice AI pipelines** with low-latency speech processing and interruption handling.
+- Exploring **advanced LLM orchestration**, conversational memory, and scalable AI architectures.
 
 ## Goals
 
 Build practical software that combines reliable backend engineering with AI-powered features.
 
-[GitHub](https://github.com/Hafizmuhammedk) · [LinkedIn](https://www.linkedin.com/in/hafis-muhammed-k-559a54353/) · [Email](mailto:hafizmuhammed1019@gmail.com)
+[GitHub](https://github.com/Hafizmuhammedk) · [LinkedIn](https://www.linkedin.com/in/hafis-muhammed-k-559a54353/) · [Email](mailto:hafizmuhammed1019@gmail.com) · [Portfolio](https://hafizmuhammedk.vercel.app/) 
