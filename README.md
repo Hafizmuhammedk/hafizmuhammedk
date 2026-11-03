@@ -11,6 +11,7 @@ Generative AI Engineer based in Kerala, India, passionate about designing and de
 - **Databases:** PostgreSQL, Redis, Valkey
 - **Cloud & DevOps:** AWS, GCP, Docker, GitHub Actions (CI/CD)
 - **Tools & MLOps:** Git, Linux, MLflow, DeepEval, Ragas
+- 
 
 ## Currently Working On
 
